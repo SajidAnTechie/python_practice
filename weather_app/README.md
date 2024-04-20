@@ -14,7 +14,7 @@ pip install > requirements.txt
 
 ![Home Screen](https://github.com/SajidAnTechie/socket.io-client-tester/assets/59027889/f999eaa1-ffb5-4091-a9f9-f8e10286fb34)
 
-2.Loading Screen
+2. Loading Screen
 
 ![At loading screen](https://github.com/SajidAnTechie/python_practice/assets/59027889/b7175746-d7fd-458f-ab43-3478b3a21dcf)
 
