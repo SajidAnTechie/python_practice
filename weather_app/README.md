@@ -18,6 +18,6 @@ pip install > requirements.txt
 
 ![At loading screen](https://github.com/SajidAnTechie/python_practice/assets/59027889/b7175746-d7fd-458f-ab43-3478b3a21dcf)
 
-3.Search Successful
+3. Search Successful
 
 ![Search Successful](https://github.com/SajidAnTechie/socket.io-client-tester/assets/59027889/b3ee1952-c782-4668-a9fc-923676a34c14)
