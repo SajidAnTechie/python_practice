@@ -4,7 +4,7 @@ Clone this repository and run:
 ```sh
 cd weather_app
 
-pip install > requirements.txt
+pip install -r requirements.txt
 ```
 > To run the app type ```python main.py```
 
